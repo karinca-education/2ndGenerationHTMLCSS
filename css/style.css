@@ -1,0 +1,19 @@
+body {
+  background-color: brown;
+}
+
+div {
+  background-color: rgb(30, 160, 95);
+  width: 300px;
+  height: 300px;
+}
+
+p.white-text {
+  color: red;
+}
+span.white-text {
+  color: cadetblue;
+}
+.green-text {
+  color: aqua;
+}
