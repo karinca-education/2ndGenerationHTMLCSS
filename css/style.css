@@ -1,19 +1,33 @@
-body {
-  background-color: brown;
-}
-
-div {
-  background-color: rgb(30, 160, 95);
-  width: 300px;
-  height: 300px;
-}
-
-p.white-text {
+#ilk {
   color: red;
 }
-span.white-text {
-  color: cadetblue;
+.muhendis {
+  font-size: 44px !important;
 }
-.green-text {
-  color: aqua;
+.sari-sac {
+  color: yellow;
+}
+.yesil-sac {
+  color: green;
+}
+.back-blue {
+  background-color: blue;
+}
+div.sari-sac {
+  font-size: 100px;
+}
+div#son {
+  background-color: red;
+}
+div.muhendis {
+  color: pink;
+  font-size: 15px;
+}
+
+p.muhendis {
+  font-size: 10px;
+  color: blue;
+}
+.muhendis {
+  font-size: 2000px;
 }
